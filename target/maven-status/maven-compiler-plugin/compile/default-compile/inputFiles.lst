@@ -1,0 +1,9 @@
+/Users/cauebucci/Documents/GitHub/espm.ms.atividade1.2024.1/src/main/java/com/example/usuario/controller/UsuarioController.java
+/Users/cauebucci/Documents/GitHub/espm.ms.atividade1.2024.1/src/main/java/com/example/usuario/config/KeycloakConfig.java
+/Users/cauebucci/Documents/GitHub/espm.ms.atividade1.2024.1/src/main/java/com/example/usuario/exception/GlobalExceptionHandler.java
+/Users/cauebucci/Documents/GitHub/espm.ms.atividade1.2024.1/src/main/java/com/example/usuario/repository/UsuarioRepository.java
+/Users/cauebucci/Documents/GitHub/espm.ms.atividade1.2024.1/src/main/java/com/example/usuario/config/SecurityConfig.java
+/Users/cauebucci/Documents/GitHub/espm.ms.atividade1.2024.1/src/main/java/com/example/usuario/UsuarioApplication.java
+/Users/cauebucci/Documents/GitHub/espm.ms.atividade1.2024.1/src/main/java/com/example/usuario/model/Usuario.java
+/Users/cauebucci/Documents/GitHub/espm.ms.atividade1.2024.1/src/main/java/com/example/usuario/dto/mudarSenha.java
+/Users/cauebucci/Documents/GitHub/espm.ms.atividade1.2024.1/src/main/java/com/example/usuario/service/UsuarioService.java
